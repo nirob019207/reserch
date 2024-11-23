@@ -38,6 +38,25 @@
             text-align: center;
 
         }
+        .publish-bottom p {
+            color: #333; 
+            font-size: 0.925rem; 
+            font-weight: 500;
+            margin-bottom: 20px; 
+            line-height: 1.5; 
+        }
+        .publish-bottom h3 {
+            color: var(--primary);
+            font-size: 1.3rem; 
+            font-weight: 700; 
+            margin-bottom: 15px; 
+            line-height: 1.4; 
+        }
+
+        .publish-bottom a {
+            font-size: 0.87rem; 
+          
+        }
    
 }
 
